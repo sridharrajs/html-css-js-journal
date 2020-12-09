@@ -1,9 +1,16 @@
 # HTML-journal
 
-## Speed test
+This repo is a collection of good JavaScript resource(link, blog) I read online on specify JavaScript topics.
 
-Web pages needs to be tested on assest(JS & CSS) and HTML for optimizing it for slow connections. Following tools will help us to do so
 
-* Google PageSpeed Insights - [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)  
-* GTmetrix - [https://gtmetrix.com/](https://gtmetrix.com/)  
-* Pingdom tool - [https://tools.pingdom.com](https://tools.pingdom.com)  
+## Best Practices
+
+* [Clean code for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+## Apps
+
+* JsTips - Short Javascript Tips - [Web](http://www.jstips.co/), [iOS app](https://itunes.apple.com/us/app/jstips/id1078136437) and [android app](https://play.google.com/store/apps/details?id=com.mavinreads.jstips)
+
+## LICENSE
+
+MIT
